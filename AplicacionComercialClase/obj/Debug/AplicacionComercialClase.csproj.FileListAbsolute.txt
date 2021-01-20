@@ -1,0 +1,5 @@
+C:\Users\OALVAREZ\source\repos\AplicacionComercialClase\AplicacionComercialClase\obj\Debug\AplicacionComercialClase.csprojAssemblyReference.cache
+C:\Users\OALVAREZ\source\repos\AplicacionComercialClase\AplicacionComercialClase\obj\Debug\AplicacionComercialClase.frmLogin.resources
+C:\Users\OALVAREZ\source\repos\AplicacionComercialClase\AplicacionComercialClase\obj\Debug\AplicacionComercialClase.Properties.Resources.resources
+C:\Users\OALVAREZ\source\repos\AplicacionComercialClase\AplicacionComercialClase\obj\Debug\AplicacionComercialClase.csproj.GenerateResource.cache
+C:\Users\OALVAREZ\source\repos\AplicacionComercialClase\AplicacionComercialClase\obj\Debug\AplicacionComercialClase.csproj.CoreCompileInputs.cache

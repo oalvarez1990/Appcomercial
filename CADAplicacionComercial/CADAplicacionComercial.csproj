@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AsyncDataAdapter" Version="1.0.25.1" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.DiagnosticAdapter" Version="3.1.10" />
+    <PackageReference Include="sqlTransaction" Version="1.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="DSAplicacionComercial.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DSAplicacionComercial.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DSAplicacionComercial.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSAplicacionComercial.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

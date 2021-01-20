@@ -1,0 +1,4 @@
+C:\Users\OALVAREZ\source\repos\AplicacionComercialClase\CADAplicacionComercial\obj\Debug\netstandard2.0\CADAplicacionComercial.csprojAssemblyReference.cache
+C:\Users\OALVAREZ\source\repos\AplicacionComercialClase\CADAplicacionComercial\obj\Debug\netstandard2.0\CADAplicacionComercial.AssemblyInfoInputs.cache
+C:\Users\OALVAREZ\source\repos\AplicacionComercialClase\CADAplicacionComercial\obj\Debug\netstandard2.0\CADAplicacionComercial.AssemblyInfo.cs
+C:\Users\OALVAREZ\source\repos\AplicacionComercialClase\CADAplicacionComercial\obj\Debug\netstandard2.0\CADAplicacionComercial.csproj.CoreCompileInputs.cache
